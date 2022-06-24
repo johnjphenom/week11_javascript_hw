@@ -11,12 +11,12 @@ function buildTable(data) {
 
 // Clear existing data
     tbody.html("");
-}
+
 
 
 // Loop through each object in the data
 // and append a row and cells for each value in the row
-data.forEach((dataRow) => {
+    data.forEach((dataRow) => {
 
     // Append a row to the table body
     let row = tbody.append("tr");
@@ -32,6 +32,8 @@ data.forEach((dataRow) => {
 
 
 });
+
+}
 
 
 function handleClick() {
