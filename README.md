@@ -11,13 +11,13 @@ After much work a successfully working website, that is aesthetically pleasing, 
 
 ### Examples
 Such an example of a search is shown below with the parameters of ‘1/2/2010’, ‘ca’, and ‘triangle’. 
-![This is and	image](https://github.com/johnjphenom/week4_pandas_hw/blob/main/Resources/header.png)
+![This is and image]https://github.com/johnjphenom/week11_javascript_hw/blob/main/Pictures/filtered_search.png)
 
 Another such example is with the parameters of ‘nm’ and ‘light’. This provides us with one result.
-	image](https://github.com/johnjphenom/week4_pandas_hw/blob/main/Resources/header.png)
+![This is and image](https://github.com/johnjphenom/week11_javascript_hw/blob/main/Pictures/fitered_search_2.png)
 
 If no parameters are entered, then all of the results are populated. This is also that case when the webpage first starts up.
-		image](https://github.com/johnjphenom/week4_pandas_hw/blob/main/Resources/header.png)
+![This is and image](https://github.com/johnjphenom/week11_javascript_hw/blob/main/Pictures/no_filters.png)
 
 
 ## Summary
