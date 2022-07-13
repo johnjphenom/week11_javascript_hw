@@ -11,7 +11,7 @@ After much work a successfully working website, that is aesthetically pleasing, 
 
 ### Examples
 Such an example of a search is shown below with the parameters of ‘1/2/2010’, ‘ca’, and ‘triangle’. 
-![This is and image]https://github.com/johnjphenom/week11_javascript_hw/blob/main/Pictures/filtered_search.png)
+![This is and image](https://github.com/johnjphenom/week11_javascript_hw/blob/main/Pictures/filtered_search.png)
 
 Another such example is with the parameters of ‘nm’ and ‘light’. This provides us with one result.
 ![This is and image](https://github.com/johnjphenom/week11_javascript_hw/blob/main/Pictures/fitered_search_2.png)
